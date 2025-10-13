@@ -1,0 +1,7 @@
+**Catholic Open Source** (aka *Catholic OS*) is an emerging initiative that aims to bring together Catholic developers, educators, and advocates to build free and open-source technologies in service to the Church’s mission of evangelization.
+
+The long-term vision is to establish a non-profit organization — the **Catholic Open Source Foundation (COSF)** — that will help coordinate community efforts for the common good and contribute to a shared digital patrimony for the Catholic Church, in partnership with other Catholic organizations while also maintaining a close collaboration with the Church hierarchy.
+
+In this early phase, the GitHub organization serves as a collaborative space where contributors can share ideas, develop projects, and explore how technology can best support the Church’s evangelizing mission.
+
+In view of building up a community of Catholic developers, one of the activities of this early phase is to organize hackathons and similar events, whether virtual or in person, where participants can learn and share their work in a collaborative environment. The GitHub organization is a place where participants can share their work and collaborate with others, and where hackathon projects can be hosted.
